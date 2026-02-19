@@ -4,12 +4,12 @@ assets
 
 ### 1. Direto (GitHub Raw)
 > URL (Raw):
-```https://raw.githubusercontent.com``` ```/engerika/emkt/``` ```**main** ou **hash**``` ```/nomearquivo```
+```https://raw.githubusercontent.com/engerika/emkt/MAIN_ou_HASH/nomearquivo```
 
 
 ### 2. Rápido (Via CDN)
 > URL (jsDelivr):
-``` https://cdn.jsdelivr.net/gh/engerika/emkto@hash/nomearquivo```
+``` https://cdn.jsdelivr.net/gh/engerika/emkto@MAIN_ou_HASH/nomearquivo```
 
 
 ### 3. Performance (HTML)
